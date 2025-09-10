@@ -1,0 +1,9 @@
+{
+	"name": "az-ir-adf-test",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9092919a-211c-4057-910e-3184150e95fd",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
